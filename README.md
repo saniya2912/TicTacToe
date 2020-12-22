@@ -1,25 +1,11 @@
 # TicTacToe
 This is a simple game of TicTacToe with some added features.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## How to play
+#Player 1 = Purple rectangle
+#Player 2 = Blue circle
+#click mouse on the box that you wish to mark.Takes alternates turns to mark. The first player to mark a row, column or diagonal wins.
+##Press SPACEBAR to restart game
 
 
 
